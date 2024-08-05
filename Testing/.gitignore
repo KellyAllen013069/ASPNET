@@ -1,0 +1,6 @@
+appsettings.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefss
